@@ -77,5 +77,3 @@ This project demonstrates a complete data analysis pipeline using banking data�
 │   └── powerbi.pbix
 ├── README.md
 ```
-
-Let me know if you'd like to add screenshots, sample queries, or a link to your published dashboard!
